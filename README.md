@@ -3,8 +3,7 @@
 ## Setting steps
 1. clone this repository.
 2. write the following keymap for your keyball.
-
-    TBD
+    https://remap-keys.app/catalog/RZSU1CrvEW4lns0ww5BM/keymap
 
 3. open Ubuntu keyboard setting.
 4. enter ``keyboard shortcut`` > ``display shortcut and customize``.
